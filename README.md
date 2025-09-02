@@ -20,3 +20,6 @@ Use case diagram are graphical tools that shows how users interact with a system
 They help visualize system functionality for all stakeholders.
 ##"<img width="1024" height="1024" alt="alx-booking-uc" src="https://github.com/user-attachments/assets/96a5fb04-d863-43b7-bff8-a0cf76609122" />"
 
+"Acceptance Criteria"
+It clarify user expectaions, reduce ambiguity and miscommunication, guide development and serve as a testable checklist for ensuring the final product meets requirements and quality standards.
+An example of an acceptance criteria in a booking system would focus on user experience, payments and confirmation. e.g "A confirmation email with booking details is sent to the user's registered email address"
